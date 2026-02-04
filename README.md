@@ -29,7 +29,7 @@
       <br />
       <b>조장:김가영</b>
       <br />
-      <a href="https://github.com/ZonezIpex">
+      <a href="https://github.com/gahyoung920-eng">
         <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB" />
       </a>
     </td>
@@ -39,7 +39,7 @@
       <br />
       <b>김다솜</b>
       <br />
-      <a href="https://github.com/ZonezIpex">
+      <a href="https://github.com/Myang09">
         <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB" />
       </a>
     </td>
@@ -49,7 +49,7 @@
       <br />
       <b>김승욱</b>
       <br />
-      <a href="https://github.com/ZonezIpex">
+      <a href="https://github.com/KIM-SEUNG-WOOK">
         <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB" />
       </a>
     </td>
@@ -59,7 +59,7 @@
       <br />
       <b>김정수</b>
       <br />
-      <a href="https://github.com/ZonezIpex">
+      <a href="https://github.com/krystallinekim">
         <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB" />
       </a>
     </td>
@@ -79,7 +79,7 @@
       <br />
       <b>이서윤</b>
       <br />
-      <a href="https://github.com/ZonezIpex">
+      <a href="https://github.com/leesy744">
         <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB" />
       </a>
     </td>
